@@ -1,0 +1,9 @@
+[ 2024-10-13 23:50:18,390 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-13 23:50:18,416 ] 97 werkzeug - INFO -  * Debugger PIN: 158-030-270
+[ 2024-10-13 23:50:25,888 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:50:25] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-13 23:50:25,940 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:50:25] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+[ 2024-10-13 23:50:49,979 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:50:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2024-10-13 23:50:50,168 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:50:50] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:50:50,201 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:50:50] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:50:50,282 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:50:50] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=taGHvaIOCbChKePmE0Ak HTTP/1.1" 200 -
+[ 2024-10-13 23:57:15,906 ] 97 werkzeug - INFO -  * Detected change in 'e:\\ml project\\forms.py', reloading

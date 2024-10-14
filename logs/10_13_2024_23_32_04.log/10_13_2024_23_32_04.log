@@ -1,0 +1,27 @@
+[ 2024-10-13 23:32:06,107 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-13 23:32:06,155 ] 97 werkzeug - INFO -  * Debugger PIN: 158-030-270
+[ 2024-10-13 23:32:07,808 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:32:07] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:32:07,947 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:32:07] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-10-13 23:32:07,960 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:32:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-10-13 23:34:44,440 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:34:44] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:34:44,457 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:34:44] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:34:45,371 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:34:45] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:34:45,387 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:34:45] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:05,715 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:05] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:05,733 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:05] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:06,445 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:06] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:06,463 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:06] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:06,663 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:06] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:06,679 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:06] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:23,518 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:23] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:23,532 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:23] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:24,178 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:24,198 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:24,356 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:24,372 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:24,520 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:24,532 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:24,686 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:24,701 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-10-13 23:35:24,904 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "GET / HTTP/1.1" 200 -
+[ 2024-10-13 23:35:24,919 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 23:35:24] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -

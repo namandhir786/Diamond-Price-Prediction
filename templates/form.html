@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Prediction</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Diamond Price Prediction</h1>
+
+        <form method="POST" action="{{ url_for('predict_datapoint') }}">
+            {{ form.hidden_tag() }}
+            
+            <div class="form-group">
+                {{ form.carat.label }} <br>
+                {{ form.carat(class="form-control") }}
+                {% if form.carat.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.carat.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.depth.label }} <br>
+                {{ form.depth(class="form-control") }}
+                {% if form.depth.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.depth.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.table.label }} <br>
+                {{ form.table(class="form-control") }}
+                {% if form.table.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.table.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.x.label }} <br>
+                {{ form.x(class="form-control") }}
+                {% if form.x.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.x.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.y.label }} <br>
+                {{ form.y(class="form-control") }}
+                {% if form.y.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.y.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.z.label }} <br>
+                {{ form.z(class="form-control") }}
+                {% if form.z.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.z.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.cut.label }} <br>
+                {{ form.cut(class="form-control") }}
+                {% if form.cut.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.cut.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.color.label }} <br>
+                {{ form.color(class="form-control") }}
+                {% if form.color.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.color.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.clarity.label }} <br>
+                {{ form.clarity(class="form-control") }}
+                {% if form.clarity.errors %}
+                    <div class="alert alert-danger">
+                        {{ form.clarity.errors[0] }}
+                    </div>
+                {% endif %}
+            </div>
+
+            <input type="submit" value="Submit">
+
+        </form>
+
+        {% if final_result %}
+            <div class="result">
+                <h2>The price of your diamond is: {{ final_result }}</h2>
+            </div>
+        {% endif %}
+    </div>
+
+</body>
+</html>

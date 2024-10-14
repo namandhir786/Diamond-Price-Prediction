@@ -1,0 +1,3 @@
+[ 2024-10-14 09:09:26,818 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-14 09:09:26,831 ] 97 werkzeug - INFO -  * Debugger PIN: 158-030-270
+[ 2024-10-14 09:09:44,666 ] 97 werkzeug - INFO -  * Detected change in 'e:\\ml project\\application.py', reloading
