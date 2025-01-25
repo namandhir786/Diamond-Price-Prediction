@@ -1,0 +1,5 @@
+[ 2025-01-25 16:55:57,078 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-25 16:55:57,094 ] 97 werkzeug - INFO -  * Debugger PIN: 207-529-071
+[ 2025-01-25 16:56:01,092 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jan/2025 16:56:01] "GET / HTTP/1.1" 200 -
+[ 2025-01-25 16:56:01,205 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jan/2025 16:56:01] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2025-01-25 16:56:01,289 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jan/2025 16:56:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

@@ -1,0 +1,29 @@
+[ 2025-01-08 23:29:36,392 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-08 23:29:36,406 ] 97 werkzeug - INFO -  * Debugger PIN: 158-030-270
+[ 2025-01-08 23:30:17,859 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:30:17] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-08 23:30:17,951 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:30:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:30:18,046 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:30:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-01-08 23:35:41,408 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:35:41] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-08 23:35:41,425 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:35:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:35:41,974 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:35:41] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-08 23:35:42,291 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:35:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:36:29,073 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:36:29] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-08 23:36:29,085 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:36:29] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:42:25,094 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:42:25] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-08 23:42:25,164 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:42:25] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2025-01-08 23:42:41,810 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:42:41] "GET / HTTP/1.1" 200 -
+[ 2025-01-08 23:42:42,146 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:42:42] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:42:42,191 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:42:42] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:48:19,359 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:48:19] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-08 23:48:19,395 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:48:19] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2025-01-08 23:49:36,951 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:49:36] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-08 23:49:36,967 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:49:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:50:24,065 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:50:24] "GET / HTTP/1.1" 200 -
+[ 2025-01-08 23:50:24,378 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:50:24] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:50:24,410 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:50:24] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:51:53,573 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:51:53] "GET / HTTP/1.1" 200 -
+[ 2025-01-08 23:51:53,588 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:51:53] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:51:53,835 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:51:53] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:52:23,060 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:52:23] "GET / HTTP/1.1" 200 -
+[ 2025-01-08 23:52:23,371 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:52:23] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 23:52:23,401 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 23:52:23] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -

@@ -1,0 +1,8 @@
+[ 2025-01-25 16:52:55,856 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-25 16:52:55,864 ] 97 werkzeug - INFO -  * Debugger PIN: 207-529-071
+[ 2025-01-25 16:53:04,835 ] 63 root - INFO - Dataframe Gathered
+[ 2025-01-25 16:53:06,101 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jan/2025 16:53:06] "POST /predict HTTP/1.1" 200 -
+[ 2025-01-25 16:53:06,234 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jan/2025 16:53:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2025-01-25 16:53:39,498 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jan/2025 16:53:39] "GET / HTTP/1.1" 200 -
+[ 2025-01-25 16:53:39,538 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jan/2025 16:53:39] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+[ 2025-01-25 16:53:39,779 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jan/2025 16:53:39] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -

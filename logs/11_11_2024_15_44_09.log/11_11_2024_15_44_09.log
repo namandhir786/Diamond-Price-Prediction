@@ -1,0 +1,13 @@
+[ 2024-11-11 15:44:11,038 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-11 15:44:11,049 ] 97 werkzeug - INFO -  * Debugger PIN: 158-030-270
+[ 2024-11-11 15:44:24,260 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 15:44:24] "GET /predict HTTP/1.1" 200 -
+[ 2024-11-11 15:44:24,343 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 15:44:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-11-11 15:44:24,445 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 15:44:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-11-11 16:01:04,772 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:01:04] "GET / HTTP/1.1" 200 -
+[ 2024-11-11 16:01:04,790 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:01:04] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+[ 2024-11-11 16:01:05,035 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:01:05] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-11-11 16:01:16,079 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:01:16] "GET /predict HTTP/1.1" 200 -
+[ 2024-11-11 16:01:16,094 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:01:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-11-11 16:01:57,769 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:01:57] "GET / HTTP/1.1" 200 -
+[ 2024-11-11 16:01:57,787 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:01:57] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+[ 2024-11-11 16:01:58,022 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 16:01:58] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -

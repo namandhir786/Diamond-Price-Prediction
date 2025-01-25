@@ -1,0 +1,8 @@
+[ 2024-11-15 15:03:33,659 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-15 15:03:33,674 ] 97 werkzeug - INFO -  * Debugger PIN: 158-030-270
+[ 2024-11-15 15:04:25,774 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 15:04:25] "GET /predict HTTP/1.1" 200 -
+[ 2024-11-15 15:04:25,922 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 15:04:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-11-15 15:04:25,955 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 15:04:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-11-15 15:11:00,876 ] 63 root - INFO - Dataframe Gathered
+[ 2024-11-15 15:11:01,974 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 15:11:01] "POST /predict HTTP/1.1" 200 -
+[ 2024-11-15 15:11:01,989 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 15:11:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -

@@ -1,0 +1,8 @@
+[ 2024-11-11 10:22:11,840 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-11 10:22:11,868 ] 97 werkzeug - INFO -  * Debugger PIN: 158-030-270
+[ 2024-11-11 10:23:16,363 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 10:23:16] "GET / HTTP/1.1" 200 -
+[ 2024-11-11 10:23:16,492 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 10:23:16] "GET /static/css/home.css HTTP/1.1" 200 -
+[ 2024-11-11 10:23:16,589 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 10:23:16] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-11-11 10:23:16,907 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 10:23:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-11-11 10:23:23,526 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 10:23:23] "GET /predict HTTP/1.1" 200 -
+[ 2024-11-11 10:23:23,810 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Nov/2024 10:23:23] "GET /static/css/styles.css HTTP/1.1" 200 -

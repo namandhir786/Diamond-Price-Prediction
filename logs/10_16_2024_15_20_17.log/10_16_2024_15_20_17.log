@@ -1,0 +1,5 @@
+[ 2024-10-16 15:20:19,907 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-16 15:20:19,922 ] 97 werkzeug - INFO -  * Debugger PIN: 276-202-450
+[ 2024-10-16 15:20:35,304 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/Oct/2024 15:20:35] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-16 15:20:35,408 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/Oct/2024 15:20:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-10-16 15:20:35,441 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/Oct/2024 15:20:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

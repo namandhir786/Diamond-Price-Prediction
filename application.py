@@ -8,11 +8,7 @@ app = application
 # Set a secret key for form validation (required by Flask-WTF)
 app.config['SECRET_KEY'] = 'diamond-1'
 
-@app.route('/')
-def home_page():
-    return render_template('index.html')
-
-@app.route('/predict', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def predict_datapoint():
     form = DiamondForm()  # Create an instance of DiamondForm
 
